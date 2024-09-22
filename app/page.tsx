@@ -1,5 +1,5 @@
 import Head from "next/head";
-import CountryList from "./src/components/CountryList";
+import CountryList from "./components/CountryList";
 
 const Home = () => {
   return (
